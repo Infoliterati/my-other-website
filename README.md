@@ -2,4 +2,4 @@
 
 Just practising. 
 
- ![TomCat](/tom_cat.png)
+ ![Tom Cat](/tom_cat.jpg)
