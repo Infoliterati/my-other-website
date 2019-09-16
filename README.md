@@ -1,3 +1,3 @@
-# my-other-website
+# my other website
 
 Just practising. 
